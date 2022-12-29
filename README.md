@@ -1,4 +1,4 @@
-# graphic-calculator
+# graphing-calculator
 Creating 3d graphing calculator using pygame
 
 The 3-d graphing calculator will graph surfaces defined by z = f(x,y).
